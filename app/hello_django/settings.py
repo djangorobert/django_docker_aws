@@ -29,7 +29,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'ec2-3-128-38-45.us-east-2.compute.amazonaws.com',
-    '0.0.0.0', 'localhost', '127.0.0.1']
+    '0.0.0.0', 'localhost', '127.0.0.1', '3.128.38.45:8000', '3.128.38.45']
 #ALLOWED_HOSTS = os.environ.get("DJANGO_ALLOWED_HOSTS").split(" ")
 
 # Application definition
