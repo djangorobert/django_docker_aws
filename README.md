@@ -1,5 +1,5 @@
 # django-docker-aws
-Technologies use:
+Technologies used:
 ================
 1.)Django Web Framework
 2.)Docker Container
@@ -19,3 +19,7 @@ Then was able to verify if my Hello Django App was live I went here:http://ec2-3
 
 One thing to remember this is for Education purposes always hide your security key in django with packages like django-environ and put Debug=False. 
 Take Care.
+
+![Alt text](1.JPG?raw=true)
+![Alt text](2.JPG?raw=true)
+![Alt text](3.JPG?raw=true)
