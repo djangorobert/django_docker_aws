@@ -1,4 +1,4 @@
-# django-docker-aws
+# Django_Docker_AWS
 Technologies used:
 ================
 1.)Django Web Framework
